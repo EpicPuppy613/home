@@ -1,0 +1,22 @@
+body {
+    font-family: monospace;
+    text-align: center;
+    background: black;
+    color: lightgray;
+    font-size: 1.25em;
+}
+a {
+    background: black;
+    color: lightgray;
+}
+table {
+    margin: auto;
+}
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 1.25em;
+    border: white solid 3px;
+}
